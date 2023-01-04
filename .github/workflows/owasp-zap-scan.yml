@@ -1,3 +1,4 @@
+name: OWASP ZAP with Github Action
 on: [push]
 
 jobs:
